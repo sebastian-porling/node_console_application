@@ -1,0 +1,21 @@
+{
+  "name": "console_application",
+  "version": "1.0.0",
+  "description": "Application for displaying different methods in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastian-porling/node_console_application"
+  },
+  "keywords": [
+    "Node.js",
+    "OS",
+    "FS",
+    "HTTP"
+  ],
+  "author": "Sebastian Porling",
+  "license": "MIT"
+}
